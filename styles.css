@@ -1,0 +1,30 @@
+body {
+    background-color: #FF6200;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+.imagen-user {
+    margin-left: 1700px; 
+    margin-top: -300px;
+    width: 50px;      
+    height: 50px;
+}
+.rectangulo {
+    width: 1848px; 
+    height: 800px; 
+    background-color: #EC0000; 
+    border: 2px solid #cccccc00;
+    border-radius: 0px; 
+    padding: 22px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 0px auto;
+    height: 100vh;
+}
+.imagen-camara {
+    width: 600px; 
+    height: auto;
+    margin-left:
+    
+}
+
+    
